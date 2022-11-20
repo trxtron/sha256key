@@ -1,1 +1,1 @@
-# sha256key
+Next generation blockchain encryption policy!
